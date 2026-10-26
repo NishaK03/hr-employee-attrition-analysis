@@ -57,7 +57,6 @@ These are descriptive findings from the supplied dataset. They do not establish 
 - [Recommendations](documentation/recommendations.md)
 - [SQL Query File](sql/attrition_analysis.sql)
 
-Add links to the remaining documentation and dashboard after those files are created.
 
 ## Limitations
 
